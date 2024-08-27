@@ -16,10 +16,10 @@ const Navigation = () => {
 
       <ul style={ulstyle}>
         <li>
-          <Link to="/about-me">About Me</Link>
+          <Link to="/portfolio">Portfolio</Link>
         </li>
         <li>
-          <Link to="/portfolio">Portfolio</Link>
+          <Link to="/about-me">About-Me</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>
