@@ -8,7 +8,7 @@ const Portfolio = () => {
     <section>
       <h2>Portfolio</h2>
       <div className="project-grid">
-        <Project title="Project 1" image={project1Image} deployedLink="#" githubLink="#" />
+        <Project title="Project 1" image={project1Image} deployedLink="" githubLink="" />
         {/* Add more Project components here */}
         
       </div>
